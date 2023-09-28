@@ -12,7 +12,6 @@ A comprehensive Library Management System developed in Java with a Swing-based u
 ## Demographics
 
 ![Screenshot (643)](https://github.com/AliHaider0343/Library-Management-System/assets/138858887/ab11682e-cef4-4bb4-b7d2-c763a80891e7)
-![Screenshot (642)](https://github.com/AliH![Screenshot (641)](https://github.com/AliHaider0343/Library-Management-System/assets/138858887/f1e72a24-0990-48bd-b1fc-f74e8e2d0034)
 ![Screenshot (640)](https://github.com/AliHaider0343/Library-Management-System/assets/138858887/49fd1ea2-9c3d-4a43-9d36-2a729064fb5f)
 ![Screenshot (639)](https://github.com/AliHaider0343/Library-Management-System/assets/138858887/1daedadd-5f95-4a09-8f1f-bd2294a26baf)
 ![Screenshot (638)](https://github.com/AliHaider0343/Library-Management-System/assets/138858887/6a1d879a-99af-45ca-9930-2e743ab8ee87)
